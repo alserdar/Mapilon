@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=BE:D5:EC:3B:8A:B7:6E:C3:B2:EF:B2:50:8D:30:D9:69:2B:36:60:A2%3Bcom.alserdar.mapilon
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.alserdar.mapilon
+
+    SHA-1 certificate fingerprint:
+    BE:D5:EC:3B:8A:B7:6E:C3:B2:EF:B2:50:8D:30:D9:69:2B:36:60:A2
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAc933iFR4gfE-21PmzHcbeH0OaSB471xw</string>
+</resources>
